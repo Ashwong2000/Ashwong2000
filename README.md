@@ -1,35 +1,49 @@
 # Hi, I'm Ash Wong 👋
-I’m a community growth marketer exploring AI tools, creator economy, and practical automation.
 
-Currently, I’m building my own knowledge system around AI tools, vibe coding, community operations, and growth marketing.  
-I use this space to document what I learn, what I build, and how I turn ideas into real workflows.
+From logistics to maker communities, I now work on user and community operations at Creality Falcon.
+
+I believe AI should not only belong to engineers, developers, or tech experts.  
+It should be simple enough for everyone to use — even a 3-year-old could follow.
+
+This is my space to document the tools, workflows, and real work cases I’m learning and using.
+
+---
+
+## 🌱 My Mission
+
+Sharing tools everyone can use.
+
+I share simple tools and workflows that help people:
+
+- Reduce repetitive work
+- Build their own knowledge system
+- Turn real work experience into reusable SOPs
+- Start without feeling overwhelmed
+
+---
 
 ## ✨ About Me
-- 📌 Sharing beginner-friendly AI notes — explained as simply as possible, like teaching a 3-year-old
-- 🌱 Learning AI tools, agents, and no-code / low-code workflows
-- 💼 Working on community growth, content operations, and user engagement
-- 🧠 Interested in AI productivity, creator tools, and knowledge monetization
-- 🛠️ Building practical workflows for marketing, community management, and personal branding
 
+I graduated from Guangzhou University with a degree in Logistics Management.
 
-## 🧩 Topics I Care About
-`AI Tools` · `Vibe Coding` · `Community Growth` · `Creator Economy` · `Marketing Operations` · `Automation` · `Knowledge Products`
+My career started in logistics, then moved into maker communities.  
+Now I work on user and community operations at Creality Falcon.
+
+I’m not from a technical background.  
+That’s why I care deeply about making AI easier to understand, easier to use, and easier to apply in real work.
+
+---
 
 ## 📚 Current Focus
-I’m currently learning:
-- How to built a personal knowledge base
-- How to build simple AI-powered workflows
-- How to turn daily work experience into reusable knowledge products
-- How to explain complex tools in a beginner-friendly way
 
-## 📝 Latest Notes
-Coming soon:
-- FaceBook Group operation case studies
-- Practical automation examples
+- AI tools for real work
+- No-code / low-code workflows
+- Social media operations with AI in China and global markets
 
 ---
 
 ## 📫 Connect with Me
 
 - GitHub: @Ashwong2000
+- Email: zql107280@gmail.com
 - Knowledge profile: Coming soon
